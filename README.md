@@ -28,12 +28,10 @@ You have a couple requests you can do to the program to change it.
  This will set the timers time to what ever is in the place of <timeinseconds>.
 
 
+#Android App
+I was not too sure one how to create an app for android, thus I cheated. I used [MIT's App Inventor](http://ai2.appinventor.mit.edu/) to quickly throw together an app that would let me interact with this.
 
-
-
-
-
-
+You can use the .aia file to create this on your own App Inventor Account or you can grab it from the github here. It is the APK.
 
 
 
