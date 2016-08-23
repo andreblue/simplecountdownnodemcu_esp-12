@@ -7,8 +7,8 @@
 Ticker countDown;
 
 //Wifi Connection INFO
-const char* ssid = "BELL868_EXT";
-const char* password = "EEE37D49";
+const char* ssid = "SSID";
+const char* password = "PASSWD";
 
 //Wifi Server Start
 WiFiServer server(80);
